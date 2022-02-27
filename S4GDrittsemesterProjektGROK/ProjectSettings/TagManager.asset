@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Grappable
+  - Grappling Hook
+  - Pullable
+  - Pushable
+  - MouthPivot
+  - Zone01
+  - Zone02
+  - Zone03
+  - Zone04
+  - GroundMud
+  - GroundWood
+  - GroundGrass
+  - GroundStones
+  - Zone05
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Blue
+  - Player
+  - 
+  - Grappable
+  - Grappling Hook
+  - Pullable
+  - Pushable
+  - 
+  - GroundMud
+  - GroundGrass
+  - GroundWood
+  - GroundStones
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 1537724033
+    locked: 0
+  - name: Background 4
+    uniqueID: 3651637235
+    locked: 0
+  - name: Background 3
+    uniqueID: 2091948989
+    locked: 0
+  - name: Background 2
+    uniqueID: 2553798343
+    locked: 0
+  - name: Background 1
+    uniqueID: 3302906795
+    locked: 0
+  - name: Background
+    uniqueID: 4096840505
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Midground
+    uniqueID: 134619503
+    locked: 0
+  - name: Mid/Background
+    uniqueID: 3249056379
+    locked: 0
+  - name: Mid/Foreground
+    uniqueID: 2204032743
+    locked: 0
+  - name: Foreground
+    uniqueID: 547989469
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 1426201527
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 4089619185
+    locked: 0

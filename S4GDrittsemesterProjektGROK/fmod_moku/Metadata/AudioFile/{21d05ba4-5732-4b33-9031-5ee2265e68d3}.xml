@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{21d05ba4-5732-4b33-9031-5ee2265e68d3}">
+		<property name="assetPath">
+			<value>MokuSounds/WalkMud/Footsteps_Mud_Walk_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.50295833333333329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e2dcc955-e833-4443-8b96-5fc8df2bfa12}</destination>
+		</relationship>
+	</object>
+</objects>

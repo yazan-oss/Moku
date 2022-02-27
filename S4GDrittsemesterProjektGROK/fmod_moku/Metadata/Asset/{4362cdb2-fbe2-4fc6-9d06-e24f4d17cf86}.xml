@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{4362cdb2-fbe2-4fc6-9d06-e24f4d17cf86}">
+		<property name="assetPath">
+			<value>MokuSounds/WalkGrass/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e2dcc955-e833-4443-8b96-5fc8df2bfa12}</destination>
+		</relationship>
+	</object>
+</objects>

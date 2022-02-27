@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{4c13067d-fe61-4e31-8af7-773e7d4f5d05}">
+		<property name="assetPath">
+			<value>MokuSounds/WalkWood/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e2dcc955-e833-4443-8b96-5fc8df2bfa12}</destination>
+		</relationship>
+	</object>
+</objects>

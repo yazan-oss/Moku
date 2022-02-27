@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5cb18b7f-6e46-47cf-86fd-3975d7d84ff4}">
+		<property name="assetPath">
+			<value>MokuSounds/WalkWood/Footsteps_Wood_Walk_05.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.50322916666666662</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e2dcc955-e833-4443-8b96-5fc8df2bfa12}</destination>
+		</relationship>
+	</object>
+</objects>
