@@ -9,3 +9,10 @@ Join Moku on his 2D side-scrolling adventure! Your home is threatened to be dest
 
 # Documentation
 - [TDD](https://github.com/yazan-oss/Moku/files/8170350/TDD.1.pdf)
+
+
+# Roles
+- (Gameplay loop & UI Implementation)+(Music&Sound Producer) 
+
+# Engine/Languages
+- Unity , C#
