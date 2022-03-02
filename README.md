@@ -2,7 +2,8 @@
 # Moku(Student Project)
 2D (Game) made in Unity Engine
 
-Join Moku on his 2D side-scrolling adventure! Your home is threatened to be destroyed by an evil and very hungry monstrosity. Use your grappling hook-like tongue to swing through the canopy of the forest to find and fight that monster.
+### Description
+> Join Moku on his 2D side-scrolling adventure! Your home is threatened to be destroyed by an evil and very hungry monstrosity. Use your grappling hook-like tongue to swing through the canopy of the forest to find and fight that monster.
 
 # Homepage
 - [Hompage](https://moku-and-the-feeding-frenzy.school4games.net/)
